@@ -1,0 +1,13 @@
+Steps for ESP32
+1-connect to Internet .
+2-Open Arduino IDE. 
+3-In menu bar go to "File" then go to "Preferences". 
+4-It will appare a box in the URLs box copy and past this URL: https://dl.espressif.com/dl/package_esp32_index.json 
+5-go to "Tools" > "Board" > "Board Manager" in the menu bar. 
+6-search for "ESP32". 
+7-Install the Package .
+8-After inslation process is completed you will find"INSTALLED" word. 
+9-Close the Board Manager. 
+10-In menu bar go to "Tools" > "Board": you will find different ESP32 boards selct what is appropriate for your ESP32. 
+11-Now you can try an example go to menu bar "File" > "Example".
+12- in menu bar go to "Tools" > Port > select the port in the list and run the code.
